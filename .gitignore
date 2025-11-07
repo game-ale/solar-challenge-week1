@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Virtual Environment
+.venv/
+env/
+venv/
+.conda/
+conda_env/
+
+# Data directories
+data/
+*.csv
+*.tsv
+*.parquet
+*.json
+*.sqlite
+*.db
+outputs/
+models/
+
+# Logs
+*.log
+
+# Editor specific
+.vscode/
+.idea/
+
+# Operating System specific
+.DS_Store
+Thumbs.db
