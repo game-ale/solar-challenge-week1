@@ -53,6 +53,26 @@ To reproduce the development environment, you can use either `venv` (Python's bu
 
 Once your environment is set up and dependencies are installed, you can execute Python scripts, run Jupyter notebooks, or develop your project components within the activated environment.
 
+***File and Folder Structure of the project***
+
+┣ 📂.github
+┃ ┗ 📂workflows
+┃   ┗ 📜unittests.yml
+┣ 📂.vscode
+┃ ┗ 📜settings.json
+┣ 📂notebooks
+┃ ┣ 📜__init__.py
+┃ ┗ 📜README.md
+┣ 📂scripts
+┃ ┣ 📜__init__.py
+┃ ┗ 📜README.md
+┣ 📂src
+┣ 📂tests
+┃ ┗ 📜__init__.py
+┣ 📜.gitignore
+┣ 📜README.md
+┗ 📜requirements.txt
+
 Example:
 ```powershell
 # 1. Activate your environment (either venv or conda)
@@ -63,3 +83,5 @@ python src/main.py
 
 # 3. Launch Jupyter Lab (if installed via requirements.txt)
 jupyter lab
+
+
