@@ -1,39 +1,18 @@
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
+myenv/
+.env/
+.env.local
 
-# Jupyter Notebook
-.ipynb_checkpoints/
-*.ipynb_checkpoints/
-notebooks/.ipynb_checkpoints/
-
-# Virtual Environment
-.venv/
-env/
-venv/
-.conda/
-conda_env/
-
-# Data directories
 data/
 *.csv
-*.tsv
 *.parquet
-*.json
-*.sqlite
-*.db
-outputs/
-models/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
 
-# Logs
-*.log
+dashboard_screenshots/
+*.pkl
 
-# Editor specific
 .vscode/
 .idea/
-
-# Operating System specific
 .DS_Store
-Thumbs.db
+*.log
