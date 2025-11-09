@@ -19,7 +19,7 @@ The challenge focuses on understanding, profiling, cleaning, and exploring solar
    - Export cleaned data for downstream analysis.
 
 ---
-
+```
 ## 🧱 Folder Structure
 solar-challenge-week1/
 ┣ 📂.github
@@ -49,7 +49,7 @@ solar-challenge-week1/
 ┣ 📜.gitignore
 ┣ 📜README.md
 ┗ 📜requirements.txt
-
+```
 
 
 ---
