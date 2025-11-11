@@ -7,7 +7,7 @@ The challenge focuses on understanding, profiling, cleaning, and exploring solar
 ---
 
 ## 🎯 Objectives
-1. **Task 1 – Git & Environment Setup**
+1. **Task 1 – Git & Environment    Setup**
    - Initialize repository and configure version control.
    - Set up a Python virtual environment (`venv`).
    - Add CI workflow and project structure.
